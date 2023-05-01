@@ -26,9 +26,6 @@
 <br>
 
 <p align="center">
-
- 
-
 <br>   
     
 <h1 align = "center">:hammer_and_wrench: Languages and Tools</h1>
