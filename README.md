@@ -13,8 +13,7 @@
 
 I am a passionate full stack developer, a highly motivated and ambitious developer who is constantly striving to improve my skills and knowledge in both front-end and back-end web development. I have a strong work ethic and an insatiable curiosity that drives me to tackle new challenges and deliver high-quality work.
 
-<br><br>
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
