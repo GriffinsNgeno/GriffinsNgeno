@@ -84,15 +84,7 @@ I am a passionate full stack developer, a highly motivated and ambitious develop
 <br>
 
 </div>
-<br>
-<br>
-<br>
-
-
 ---
-
-<br>
-
 Credit: [Griffins Ngeno](https://github.com/GriffinsNgeno)
 
 
