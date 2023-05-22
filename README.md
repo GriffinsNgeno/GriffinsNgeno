@@ -65,13 +65,13 @@ I am a passionate full stack developer, a highly motivated and ambitious develop
 
 <li>
 <a href="https://www.linkedin.com/in/griffins-ngeno-4201871b0/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  leo mallifs-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: Griffins Ngeno-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
 <a href="mailto:ngenogriffins@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Griffins-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Griffins Ngeno-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
