@@ -70,11 +70,6 @@ I am a passionate full stack developer, a highly motivated and ambitious develop
 
 <br>
 
-<li>
-<!-- <a href="https://twitter.com/_mallifs" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  mallifs-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a> -->
-</li>
 
 <br>
 
@@ -91,11 +86,6 @@ I am a passionate full stack developer, a highly motivated and ambitious develop
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
-
-<div align='center'>
-
-v
 
 </div>
 <br>
